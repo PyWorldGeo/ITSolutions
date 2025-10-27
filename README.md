@@ -1,4 +1,4 @@
-💻 IT Solutions — Static Webpage
+💻 IT Solutions  —  Static Webpage
 
 A clean, responsive one-page static website for a small IT service business.
 Built with pure HTML5 and CSS3, it presents services, contact info, and a company overview in both English and Georgian.
